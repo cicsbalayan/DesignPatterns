@@ -1,6 +1,6 @@
 # Builder Pattern in Java
 
-## Overview
+Overview
 The **Builder Pattern** is a **creational design pattern** that provides a flexible solution to constructing **complex objects step by step**.
 
 Instead of using constructors with long parameter lists (known as the *telescoping constructor problem*), the Builder Pattern introduces a fluent, readable way to create objects — while supporting immutability and optional parameters.
@@ -135,6 +135,7 @@ public class LombokBuilder {
 
 This is still the follows the same format as the main class earlier. 
 Though there are libraries or built-in features that can do this too in other languages!
+
 ---
 
 ## When to use builder pattern
