@@ -3,7 +3,7 @@
 ### Overview
 The **Builder Pattern** is a **creational design pattern** that provides a flexible solution to constructing **complex objects step by step**.
 
-Instead of using constructors with long parameter lists (known as the *telescoping constructor problem*), the Builder Pattern introduces a fluent, readable way to create objects — while supporting immutability and optional parameters.
+Instead of using constructors with long parameter lists (known as the *telescoping constructor problem*), the Builder Pattern introduces a fluent, readable way to create objects while supporting immutability and optional parameters.
 
 ---
 
