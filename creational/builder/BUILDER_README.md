@@ -35,7 +35,7 @@ Problems:
 ---
 
 ## Using Builder Pattern
-Encapsulates object construction: Instead of directly calling the constructor with many arguments, you use a Builder. You can chain calls like .firstName("John").lastName("Doe"). Also you can set what you only need, everything else uses default values.
+Instead of directly calling the constructor with many arguments, you use a Builder. You can chain calls like .firstName("John").lastName("Doe"). Also you can set what you only need, everything else uses default values.
 
 ```java
 package creational.builder;
